@@ -1,1 +1,1 @@
-# Amazon-Clone
+# Spotify Clones
